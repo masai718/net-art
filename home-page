@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-  <title>Pick a Pile</title>
+  <title>Pick a Card</title>
   <meta name="description" content="Description Goes Here">
   <meta charset="utf-8">
 
@@ -14,15 +14,7 @@
 
 <body>
 <nav>
-  <ul>
-    <li id="logo">
-      <a href="/" title="home">Logo</a>
-    </li>
-    <li><a href="">Item 1</a></li>
-    <li><a href="">Item 2</a></li>
-    <li><a href="">Item 3</a></li>
-    <li><a href="">Item 4</a></li>
-  </ul>
+<img src="" alt="" width="" height="">
 </nav>
 
 <div>
