@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+  <title>Pick a Pile</title>
+  <meta name="description" content="Description Goes Here">
+  <meta charset="utf-8">
+
+  <style type="text/css">
+    <!-- CSS Goes Here -->
+  </style>
+
+</head>
+
+<body>
+<nav>
+  <ul>
+    <li id="logo">
+      <a href="/" title="home">Logo</a>
+    </li>
+    <li><a href="">Item 1</a></li>
+    <li><a href="">Item 2</a></li>
+    <li><a href="">Item 3</a></li>
+    <li><a href="">Item 4</a></li>
+  </ul>
+</nav>
+
+<div>
+  
+</div>
+
+</body>
+</html>
